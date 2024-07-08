@@ -1,5 +1,4 @@
 // Bibliotecas - Padrão C++ 
-// Isso não vai modificar meu código original não né 
 #include <iostream>
 #include <string> 
 #include <vector>
