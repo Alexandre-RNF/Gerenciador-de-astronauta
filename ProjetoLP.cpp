@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string> 
 #include <vector>
-#include <limits> // Não lembro se eu cheguei a usar mas estou com medo de tirar e causar algum bug
+#include <limits>
 
 using namespace std; 
 
