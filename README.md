@@ -6,7 +6,7 @@ Como compilar
 - Ao baixar os arquivos, certifique-se que todos eles se encontram na mesma pasta.
 - Abra o terminal do seu computador. Comumente nomeado como "Prompt de comando".
 - Por meio do terminal, acesse o diretório em que o código se encontra (Isso é feito a partir do comando: "cd _nome da pasta_").
-- Aberto o diretório, digite: "g++ -o _nome_do_executável_ _nome_do_arquivo_.cpp" para compilar. (Observação: o nome_do_executável é fornecido por você no momento da digitação dessa linha). 
+- Aberto o diretório, digite: "g++ -o _nome_do_executável_ _ProjetoLP.cpp"_ para compilar. (Observação: o nome_do_executável é fornecido por você no momento da digitação dessa linha). 
 - Feita a compilação. Digite: "./_nome_do_executável_".
 - Diferentes terminais podem não reconhecer o comando, caso isso ocorra, digite: "_nome_do_executável.exe_". 
 
