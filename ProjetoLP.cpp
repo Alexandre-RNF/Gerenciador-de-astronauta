@@ -38,13 +38,13 @@ void Menu(){
     std::cout << "Menu" << endl; 
     std::cout << "==================================" << endl; 
     std::cout << "(1) - Cadastrar astronauta" << endl; 
-    std::cout << "(2) - Listar astronautas" << endl; // Falta os mortos com lista de voo
+    std::cout << "(2) - Listar astronautas" << endl; 
     std::cout << "(3) - Cadastrar voo" << endl; 
     std::cout << "(4) - Atribuir astronauta para voo" << endl; 
     std::cout << "(5) - Remover astronauta de voo" << endl; 
-    std::cout << "(6) - Lançar voo" << endl; // Falta deixar o Astronauta indisponível
-    std::cout << "(7) - Explodir voo" << endl; // Falta deixar o Astronauta morto
-    std::cout << "(8) - Finalizar voo" << endl; // Falta deixar o astronauta disponível de novo 
+    std::cout << "(6) - Lançar voo" << endl; 
+    std::cout << "(7) - Explodir voo" << endl; 
+    std::cout << "(8) - Finalizar voo" << endl; 
     std::cout << "(9) - Listar voos" << endl; 
     std::cout << "(10) - Fechar aplicativo" << endl; 
 }
